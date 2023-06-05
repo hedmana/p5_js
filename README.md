@@ -6,7 +6,11 @@ I'm a huge fan of the YouTube chanel "The Coding Train" so I decided to test out
 In this repository you will find a collection of creative coding projects that i developed with inspiration from The Coding Train. To check out the different projects just open the corresponding "index.html"-file in your browser. 
 
 ## Matrix Rain
-Under the matrix_rain folder you'll find a sketch with inspiratoin from the Matrix movies. The program generates a rain of foregin symbols to create a cool graphics sequence in the browser.  
+Under the matrix_rain folder you'll find a sketch with inspiration from the Matrix movies. The program generates symbol rain that results in a cool graphics sequence in the browser.  
 
 ![Alt Text](assets/matrix.gif)
 
+## Fireworks
+Under the fireworks folder you'll find, you guessed it, a firework simulation. The program continuously generates fireworks in the browser window.
+
+![Alt Text](assets/fireworks.gif)
