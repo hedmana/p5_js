@@ -16,7 +16,7 @@ function setup() {
 }
 
 function draw() {
-    background(0, 100);
+    background(0, 90);
     symbolRain.forEach(function(stream){
         stream.render();
     });
