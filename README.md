@@ -11,6 +11,6 @@ Under the matrix_rain folder you'll find a sketch with inspiration from the Matr
 ![Alt Text](gifs/matrix.gif)
 
 ## Fireworks
-Under the fireworks folder you'll find, you guessed it, a firework simulation. The program continuously generates fireworks in the browser window.
+Under the fireworks folder you'll find, you guessed it, a firework simulation. The program continuously generates fireworks in the browser window. I also ended up using this as a banner for my GitHub profile's README.md.
 
 ![Alt Text](gifs/fireworks.gif)

@@ -10,7 +10,7 @@ class Particle {
             this.vel.mult(random(1, 6));
         }
         else {
-            this.vel = createVector(0, random(-22, -10));
+            this.vel = createVector(0, random(-17, -10));
         }
         this.acc =  createVector(0, 0);
         this.gravity = createVector(0, 0.01);
