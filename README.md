@@ -1,4 +1,4 @@
-# JavaScript Web Apps
+# p5.js
 Me trying out the p5.js library: 
 
 - https://p5js.org/
